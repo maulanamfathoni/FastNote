@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FastNote</string>
+    <string name="splash_icon_note">splash icon note</string>
+    <string name="fast_note">Fast Note</string>
+    <string name="splash_icon_thunder">splash icon thunder</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="pekerjaan">Pekerjaan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">NAME</string>
+    <string name="jobs">JOBS</string>
+    <string name="mobile_developer">Mobile Developer</string>
+    <string name="fathoni">Fathoni</string>
+</resources>
